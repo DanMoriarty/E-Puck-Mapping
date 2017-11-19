@@ -29,3 +29,16 @@ ePic2 must be installed in order to communicate with the bot over Matlab. The me
 
 The program must be installed into the ePic home directory.
 
+
+* Applications: important applications	
+* Arduino Mastery: Virtual State machine and matlab arduino interfacing	
+* IMU forward double integration: Method for accelerometer double integration (forwards detrending)
+* Laser Rangefinder: code for accessing laser shield data
+* ePic212: All code required for matlab control and bluetooth communication
+
+Installation files
+* BasicDemos (1).zip	
+* DemoGCtronic-arduino (2).zip	
+* DemoGCtronic-complete-rev135 (1).zip	
+* e-puck-gna-svn-rev116 (1).zip	
+* epic212.zip
